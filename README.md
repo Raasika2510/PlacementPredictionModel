@@ -17,7 +17,7 @@
 Campus Placement Prediction is a machine learning project developed to predict the placement rate of students based on various factors such as gender, education background, academic scores, etc. The prediction model is built using XGBoost classifier and deployed using Streamlit, providing an interactive and user-friendly interface for users to input their details and receive predictions.
 
 ## Demo
-[Add link to demo video or live deployment]
+[https://www.linkedin.com/posts/activity-7079669493332914176-vXqn?utm_source=share&utm_medium=member_desktop]
 
 ## Features
 - Interactive user interface with Streamlit.
