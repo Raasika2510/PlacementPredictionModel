@@ -12,7 +12,6 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 Campus Placement Prediction is a machine learning project developed to predict the placement rate of students based on various factors such as gender, education background, academic scores, etc. The prediction model is built using XGBoost classifier and deployed using Streamlit, providing an interactive and user-friendly interface for users to input their details and receive predictions.
@@ -62,3 +61,21 @@ The dataset used for training and testing the model contains the following attri
 1. Clone the repository:
    ```sh
    git clone https://github.com/[your-username]/campus-placement-prediction.git
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+
+## Usage
+1. Run the Streamlit App:RE
+   ```sh
+   streamlit run app.py
+2. Access the app in your web browser.
+
+## Results
+1. Predictions are displayed based on the input features provided by the user.
+2. Evaluation metrics such as confusion matrix, ROC curve, and precision-recall curve can be visualized.
+
+## Contributing
+Contributions are welcome! Please feel free to open a pull request or submit an issue.
+
+
